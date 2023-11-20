@@ -5,6 +5,6 @@
 <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JAVACRIPT</li>
+    <li>JAVASCRIPT</li>
 </ul> <br>
 <a target="_blank" href="https://joaovitor2004.github.io/projeto-god-of-war-ragnarok/">Link para visitar o site</a>
